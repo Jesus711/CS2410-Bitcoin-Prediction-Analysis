@@ -8,3 +8,9 @@ Using Data Science techniques learned in the course, we gathered multiple datase
 # Jesus Ruelas: 
   Github: https://github.com/Jesus711
   LinkedIn: https://www.linkedin.com/in/jesus-ruelas-20a319196/
+
+# Datasets Used:
+CoinCodex Bitcoin Historical Dataset: https://coincodex.com/crypto/bitcoin/historical-data/
+Federal Funds Effective Rate: https://fred.stlouisfed.org/series/DFF
+Gold Dataset: https://www.nasdaq.com/market-activity/commodities/gc%3acmx
+Bitcoin Sentimental Analysis: https://www.kaggle.com/datasets/gautamchettiar/historical-sentiment-data-btc-eth-bnb-ada?select=btc_df.csv
